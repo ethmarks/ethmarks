@@ -1,5 +1,5 @@
-<div>
-<img src="assets\transparent_lava_lamp_hello.gif" width=400px>
+<div align="center">
+<img src="assets\transparent_lava_lamp_hello.gif" width=550px>
 </div>
 
 My name is **Ethan Marks**. I'm a 14-year-old college student and software engineer.
