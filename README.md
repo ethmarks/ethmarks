@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets\hello_spearmint_palette.gif" width=550px>
+<img src="readme/assets/hello_spearmint_palette.gif" width=550px>
 </div>
 
 My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
@@ -15,7 +15,7 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 
 | Lots of Experience                                      | Moderate Experience                                                                                | Currently Learning                                    |
 |---------------------------------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| <img src="assets/lots.svg" alt="Python, Git, Markdown"> | <img src="assets/moderate.svg" alt="HTML, CSS, Javascript, Blender, GIMP, Inkscape, Unity, Godot"> | <img src="assets/learning.svg" alt="Kotlin, PyTorch"> |
+| <img src="readme/assets/lots.svg" alt="Python, Git, Markdown"> | <img src="readme/assets/moderate.svg" alt="HTML, CSS, Javascript, Blender, GIMP, Inkscape, Unity, Godot"> | <img src="readme/assets/learning.svg" alt="Kotlin, PyTorch"> |
 
 ## About Me
 
@@ -45,7 +45,7 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 
 | OS                                            | Editors                                                     | Other                                                       |
 |-----------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| <img src="assets/os.svg" alt="Windows, Mint"> | <img src="assets/editors.svg" alt="PyCharm, VSCode, Colab"> | <img src="assets/other.svg" alt="Github Desktop, Obsidian"> |
+| <img src="readme/assets/os.svg" alt="Windows, Mint"> | <img src="readme/assets/editors.svg" alt="PyCharm, VSCode, Colab"> | <img src="readme/assets/other.svg" alt="Github Desktop, Obsidian"> |
 
-<div align="center"><img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg" alt="cat footer"></div>
+<div align="center"><img src="readme\assets\cat_footer.svg" alt="cat footer"></div>
 <div align="center"><p><i>"It took almost 14 billion years for the universe to create you, and it will never do it again."</i></p></div>
