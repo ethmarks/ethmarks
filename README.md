@@ -33,13 +33,7 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 
 ## What I'm Working On
 
-- 🌈 **Mantis**: My current active project is [Mantis](https://github.com/ColourlessSpearmint/Mantis), a **digital
-  emulator** of a [card game](https://www.explodingkittens.com/products/mantis) of the same name. So far, developing
-  this project has taught me a lot about [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming). I plan to use
-  **PyTorch** to train a neural network to play the game optimally.
-- ☕ **Kotlin**: I'm currently learning **Kotlin**. My motivation is that I want to **expand my skillset** beyond Python
-  to another [GPL](https://en.wikipedia.org/wiki/General-purpose_programming_language), and Kotlin seemed like a good
-  choice.
+- 🌐 **Personal Website**: My current active project is my [Personal website](https://github.com/ColourlessSpearmint/colourlessspearmint.github.io). I plan on having an About Me page as well as a few different blogs. I'm taking this opportunity to brush up on my JavaScript and learn some Web Dev best practices ([TAC methodology](https://jordanbrennan.hashnode.dev/tac-a-new-css-methodology) looks intriguing).
 
 ## My Setup
 
