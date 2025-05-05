@@ -10,7 +10,7 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
   of [my projects](https://github.com/ColourlessSpearmint?tab=repositories) in it.
 - 🎮 I have a fair bit of experience in **Game Development**; I published
   my [first game on itch.io](https://colourlessspearmint.itch.io/soaring-squirrel-shipment) when I was 11 years old.
-- 🖥️ I've done some **Front-End** coding for a secret personal project involving a 🔑 **custom encryption protocol**.
+- 🖥️ I have some **Front-End** experience coding my [personal website](https://colourlessspearmint.github.io) in pure HTML, CSS, and JS.
 - 🖌️ I taught myself **3D Modeling** in Blender in order to make assets for my 3D printer.
 
 | Lots of Experience                                      | Moderate Experience                                                                                | Currently Learning                                    |
@@ -30,10 +30,6 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
   colourful [iridescent feathers](https://i.pinimg.com/736x/d2/71/13/d27113be2e9681ff36cbbb1c793acc6f.jpg), they are
   capable of [mimicking human speech](https://www.youtube.com/watch?v=2SSJ7PZ3I6c), and they travel in groups (called
   murmations) [hundreds of thousands of birds strong](https://www.youtube.com/watch?v=V4f_1_r80RY).
-
-## What I'm Working On
-
-- 🌐 **Personal Website**: My current active project is my [Personal website](https://github.com/ColourlessSpearmint/colourlessspearmint.github.io). I plan on having an About Me page as well as a few different blogs. I'm taking this opportunity to brush up on my JavaScript and learn some Web Dev best practices ([TAC methodology](https://jordanbrennan.hashnode.dev/tac-a-new-css-methodology) looks intriguing).
 
 ## My Setup
 
