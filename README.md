@@ -46,5 +46,4 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
   capable of [mimicking human speech](https://www.youtube.com/watch?v=2SSJ7PZ3I6c), and they travel in groups (called
   murmations) [hundreds of thousands of birds strong](https://www.youtube.com/watch?v=V4f_1_r80RY).
 
-<div align="center"><img src="readme\assets\cat_footer.svg" alt="cat footer"></div>
-<div align="center"><p><i>"It took almost 14 billion years for the universe to create you, and it will never do it again."</i></p></div>
+<div align="center"><img src="assets\cat_footer.svg" alt="cat footer"></div>
