@@ -13,9 +13,25 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 - 🖥️ I have some **Front-End** experience coding my [personal website](https://colourlessspearmint.github.io) in pure HTML, CSS, and JS.
 - 🖌️ I taught myself **3D Modeling** in Blender in order to make assets for my 3D printer.
 
-| Lots of Experience                                      | Moderate Experience                                                                                | Currently Learning                                    |
-|---------------------------------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| <img src="readme/assets/lots.svg" alt="Python, Git, Markdown"> | <img src="readme/assets/moderate.svg" alt="HTML, CSS, Javascript, Blender, GIMP, Inkscape, Unity, Godot"> | <img src="readme/assets/learning.svg" alt="Kotlin, PyTorch"> |
+<div align="center">
+<img src="assets/icons/python.svg" width="48" height="48" alt="Python">
+<img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript">
+<img src="assets/icons/html.svg" width="48" height="48" alt="HTML">
+<img src="assets/icons/css.svg" width="48" height="48" alt="CSS">
+<img src="assets/icons/sass.svg" width="48" height="48" alt="Sass">
+<img src="assets/icons/git.svg" width="48" height="48" alt="Git">
+<img src="assets/icons/hugo.svg" width="48" height="48" alt="Hugo">
+<img src="assets/icons/webstorm.svg" width="48" height="48" alt="WebStorm">
+<br>
+<img src="assets/icons/zed.svg" width="48" height="48" alt="Zed">
+<img src="assets/icons/blender.svg" width="48" height="48" alt="Blender">
+<img src="assets/icons/photoshop.svg" width="48" height="48" alt="Photoshop">
+<img src="assets/icons/godot.svg" width="48" height="48" alt="Godot">
+<img src="assets/icons/unity.svg" width="48" height="48" alt="Unity">
+<img src="assets/icons/colab.svg" width="48" height="48" alt="Google Colab">
+<img src="assets/icons/kubuntu.svg" width="48" height="48" alt="Kubuntu">
+<img src="assets/icons/windows.svg" width="48" height="48" alt="Windows">
+</div>
 
 ## About Me
 
@@ -30,12 +46,6 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
   colourful [iridescent feathers](https://i.pinimg.com/736x/d2/71/13/d27113be2e9681ff36cbbb1c793acc6f.jpg), they are
   capable of [mimicking human speech](https://www.youtube.com/watch?v=2SSJ7PZ3I6c), and they travel in groups (called
   murmations) [hundreds of thousands of birds strong](https://www.youtube.com/watch?v=V4f_1_r80RY).
-
-## My Setup
-
-| OS                                            | Editors                                                     | Other                                                       |
-|-----------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| <img src="readme/assets/os.svg" alt="Windows, Mint"> | <img src="readme/assets/editors.svg" alt="PyCharm, VSCode, Colab"> | <img src="readme/assets/other.svg" alt="Github Desktop, Obsidian"> |
 
 <div align="center"><img src="readme\assets\cat_footer.svg" alt="cat footer"></div>
 <div align="center"><p><i>"It took almost 14 billion years for the universe to create you, and it will never do it again."</i></p></div>
