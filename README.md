@@ -18,9 +18,9 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 <img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript">
 <img src="assets/icons/html.svg" width="48" height="48" alt="HTML">
 <img src="assets/icons/css.svg" width="48" height="48" alt="CSS">
-<img src="assets/icons/sass.svg" width="48" height="48" alt="Sass">
+<img src="assets/icons/firefox.svg" width="48" height="48" alt="Firefox">
 <img src="assets/icons/git.svg" width="48" height="48" alt="Git">
-<img src="assets/icons/hugo.svg" width="48" height="48" alt="Hugo">
+<img src="assets/icons/obsidian.svg" width="48" height="48" alt="Obsidian">
 <img src="assets/icons/webstorm.svg" width="48" height="48" alt="WebStorm">
 <br>
 <img src="assets/icons/zed.svg" width="48" height="48" alt="Zed">
