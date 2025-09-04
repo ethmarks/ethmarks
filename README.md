@@ -1,5 +1,5 @@
 <div align="center">
-<img src="readme/assets/hello_spearmint_palette.gif" width=550px>
+<img src="assets/hello_spearmint_palette.gif" width=550px>
 </div>
 
 My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
