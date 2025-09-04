@@ -10,10 +10,10 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
   of [my projects](https://github.com/ColourlessSpearmint?tab=repositories) in it.
 - 🎮 I have a fair bit of experience in **Game Development**; I published
   my [first game on itch.io](https://colourlessspearmint.itch.io/soaring-squirrel-shipment) when I was 11 years old.
-- 🖥️ I have some **Front-End** experience coding my [personal website](https://colourlessspearmint.github.io) in pure HTML, CSS, and JS.
+- 🖥️ I have some **Web Development** experience coding my [personal website](https://colourlessspearmint.github.io) in pure HTML, CSS, and JS.
 - 🖌️ I taught myself **3D Modeling** in Blender in order to make assets for my 3D printer.
 
-<div align="center">
+<div>
 <img src="assets/icons/python.svg" width="48" height="48" alt="Python">
 <img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript">
 <img src="assets/icons/html.svg" width="48" height="48" alt="HTML">
@@ -22,7 +22,6 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 <img src="assets/icons/git.svg" width="48" height="48" alt="Git">
 <img src="assets/icons/obsidian.svg" width="48" height="48" alt="Obsidian">
 <img src="assets/icons/webstorm.svg" width="48" height="48" alt="WebStorm">
-<br>
 <img src="assets/icons/zed.svg" width="48" height="48" alt="Zed">
 <img src="assets/icons/blender.svg" width="48" height="48" alt="Blender">
 <img src="assets/icons/photoshop.svg" width="48" height="48" alt="Photoshop">
