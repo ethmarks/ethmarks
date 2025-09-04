@@ -4,16 +4,15 @@
 
 My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 
-## Skills
+- 👨‍💻 **Programming**: I have many years of experience coding in Python.
+- 🎮 **Game Development**: I Developed and published [Soaring Squirrel Shipment](https://ethmarks.itch.io/soaring-squirrel-shipment), a game about flying squirrels.
+- 🖥️ **Web Development**: I designed, built, and published [personal website](https://ethmarks.github.io) from scratch using [Hugo](https://gohugo.io/), [Sass](https://sass-lang.com/), and [GitHub Pages](https://docs.github.com/en/pages) 
+- 🧊 **3D Modeling**: I've used Blender [Geometry Nodes](https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/introduction.html) to create procedural 3D assets.
+- 🏫 **Education**: I'm a homeschooled high school student currently in my third semester of [dual-enrollment](https://en.wikipedia.org/wiki/Dual_enrollment) at my local community college.
+- 💼 **Personal Business**: I buy old laptops in bulk at auction, purchase and install new parts, flash new operating systems, and resell them for profit.
+- 🖋️ **Blog** I write about things that interest me in the [posts](https://ethmarks.github.io/posts/) section of my personal website.
 
-- 🐍 My preferred language is **Python**, and I code most
-  of [my projects](https://github.com/ColourlessSpearmint?tab=repositories) in it.
-- 🎮 I have a fair bit of experience in **Game Development**; I published
-  my [first game on itch.io](https://colourlessspearmint.itch.io/soaring-squirrel-shipment) when I was 11 years old.
-- 🖥️ I have some **Web Development** experience coding my [personal website](https://colourlessspearmint.github.io) in pure HTML, CSS, and JS.
-- 🖌️ I taught myself **3D Modeling** in Blender in order to make assets for my 3D printer.
-
-<div>
+<div align="center">
 <img src="assets/icons/python.svg" width="48" height="48" alt="Python">
 <img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript">
 <img src="assets/icons/html.svg" width="48" height="48" alt="HTML">
@@ -31,19 +30,5 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 <img src="assets/icons/kubuntu.svg" width="48" height="48" alt="Kubuntu">
 <img src="assets/icons/windows.svg" width="48" height="48" alt="Windows">
 </div>
-
-## About Me
-
-- 🏫 I'm a [dual-enrolled](https://en.wikipedia.org/wiki/Dual_enrollment) **high-school student** taking courses at my
-  local college.
-- 💼 I run a **side-business** where I buy old laptops in bulk at auction, purchase and install new parts, flash new
-  operating systems, and resell them for profit.
-- 📖 My **favorite novels**
-  are [Dune](https://www.goodreads.com/book/show/44767458-dune), [The Golden Compass](https://www.goodreads.com/book/show/119322.The_Golden_Compass),
-  and [The Fifth Science](https://www.goodreads.com/book/show/41580260-the-fifth-science).
-- 🐦‍⬛ My **favorite bird** is the [Starling](https://en.wikipedia.org/wiki/Starling). They have
-  colourful [iridescent feathers](https://i.pinimg.com/736x/d2/71/13/d27113be2e9681ff36cbbb1c793acc6f.jpg), they are
-  capable of [mimicking human speech](https://www.youtube.com/watch?v=2SSJ7PZ3I6c), and they travel in groups (called
-  murmations) [hundreds of thousands of birds strong](https://www.youtube.com/watch?v=V4f_1_r80RY).
 
 <div align="center"><img src="assets\cat_footer.svg" alt="cat footer"></div>
