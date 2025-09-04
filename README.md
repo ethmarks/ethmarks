@@ -14,19 +14,20 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 
 <div align="center">
 <img src="assets/icons/python.svg" width="48" height="48" alt="Python">
-<img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript">
+<img src="assets/icons/git.svg" width="48" height="48" alt="Git">
 <img src="assets/icons/html.svg" width="48" height="48" alt="HTML">
 <img src="assets/icons/css.svg" width="48" height="48" alt="CSS">
-<img src="assets/icons/firefox.svg" width="48" height="48" alt="Firefox">
-<img src="assets/icons/git.svg" width="48" height="48" alt="Git">
-<img src="assets/icons/obsidian.svg" width="48" height="48" alt="Obsidian">
-<img src="assets/icons/webstorm.svg" width="48" height="48" alt="WebStorm">
-<img src="assets/icons/zed.svg" width="48" height="48" alt="Zed">
+<img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript">
 <img src="assets/icons/blender.svg" width="48" height="48" alt="Blender">
 <img src="assets/icons/photoshop.svg" width="48" height="48" alt="Photoshop">
-<img src="assets/icons/godot.svg" width="48" height="48" alt="Godot">
 <img src="assets/icons/unity.svg" width="48" height="48" alt="Unity">
+<img src="assets/icons/godot.svg" width="48" height="48" alt="Godot">
+<br>
+<img src="assets/icons/zed.svg" width="48" height="48" alt="Zed">
+<img src="assets/icons/webstorm.svg" width="48" height="48" alt="WebStorm">
 <img src="assets/icons/colab.svg" width="48" height="48" alt="Google Colab">
+<img src="assets/icons/firefox.svg" width="48" height="48" alt="Firefox">
+<img src="assets/icons/obsidian.svg" width="48" height="48" alt="Obsidian">
 <img src="assets/icons/kubuntu.svg" width="48" height="48" alt="Kubuntu">
 <img src="assets/icons/windows.svg" width="48" height="48" alt="Windows">
 </div>
