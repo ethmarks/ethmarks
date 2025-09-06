@@ -16,6 +16,7 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="48" height="48" alt="Python" title="Python"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS"></a>
+<a href="https://sass-lang.com/"><img src="assets/icons/sass.svg" width="48" height="48" alt="Sass" title="Sass"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"></a>
 
 ## Software
