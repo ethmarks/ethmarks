@@ -21,6 +21,7 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 
 ## Software
 <a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="48" height="48" alt="Git" title="Git"></a>
+<a href="https://github.com/"><img src="assets/icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub"></a>
 <a href="https://www.blender.org/"><img src="assets/icons/blender.svg" width="48" height="48" alt="Blender" title="Blender"></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="assets/icons/photoshop.svg" width="48" height="48" alt="Photoshop" title="Photoshop"></a>
 <a href="https://unity.com/"><img src="assets/icons/unity.svg" width="48" height="48" alt="Unity" title="Unity"></a>
