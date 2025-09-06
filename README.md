@@ -42,5 +42,6 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 <a href="https://kubuntu.org/"><img src="assets/icons/kubuntu.svg" width="48" height="48" alt="Kubuntu" title="Kubuntu"></a>
 <a href="https://www.microsoft.com/windows/"><img src="assets/icons/windows.svg" width="48" height="48" alt="Windows" title="Windows"></a>
 <a href="https://linuxmint.com/"><img src="assets/icons/linuxmint.svg" width="48" height="48" alt="Linux Mint" title="Linux Mint"></a>
+<a href="https://www.raspberrypi.com/"><img src="assets/icons/raspberrypi.svg" width="48" height="48" alt="Raspberry Pi" title="Raspberry Pi"></a>
 
 <div align="center"><img src="assets\cat_footer.svg" alt="cat footer"></div>
