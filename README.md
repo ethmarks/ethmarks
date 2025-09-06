@@ -1,41 +1,47 @@
 <div align="center">
-<img src="readme/assets/hello_spearmint_palette.gif" width=550px>
+<img src="assets/hello_spearmint_palette.gif" width=550px>
 </div>
 
-My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
+My name is **Ethan Marks**. I'm a 14-year-old student and software developer.
 
-## Skills
+- 👨‍💻 **Programming**: I have several years of experience coding in Python.
+- 🎮 **Game Development**: I developed and published [Soaring Squirrel Shipment](https://ethmarks.itch.io/soaring-squirrel-shipment), a game about flying squirrels.
+- 🖥️ **Web Development**: I designed, built, and published my [personal website](https://ethmarks.github.io) from scratch using [Hugo](https://gohugo.io/), [Sass](https://sass-lang.com/), and [GitHub Pages](https://docs.github.com/en/pages).
+- 🧊 **3D Modeling**: I've used Blender [Geometry Nodes](https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/introduction.html) to create procedural 3D assets.
+- 🏫 **Education**: I'm a homeschooled high school student currently in my third semester of [dual-enrollment](https://en.wikipedia.org/wiki/Dual_enrollment) at my local community college.
+- 💼 **Personal Business**: I buy old laptops in bulk at auction, then upgrade them with new parts and fresh operating systems before reselling them for profit.
+- 🖋️ **Blog**: I write about my projects and things that interest me in the [posts](https://ethmarks.github.io/posts/) section of my personal website.
 
-- 🐍 My preferred language is **Python**, and I code most
-  of [my projects](https://github.com/ColourlessSpearmint?tab=repositories) in it.
-- 🎮 I have a fair bit of experience in **Game Development**; I published
-  my [first game on itch.io](https://colourlessspearmint.itch.io/soaring-squirrel-shipment) when I was 11 years old.
-- 🖥️ I have some **Front-End** experience coding my [personal website](https://colourlessspearmint.github.io) in pure HTML, CSS, and JS.
-- 🖌️ I taught myself **3D Modeling** in Blender in order to make assets for my 3D printer.
+## Languages
+<a href="https://www.python.org/"><img src="assets/icons/python.svg" width="48" height="48" alt="Python" title="Python"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS"></a>
+<a href="https://sass-lang.com/"><img src="assets/icons/sass.svg" width="48" height="48" alt="Sass" title="Sass"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"></a>
 
-| Lots of Experience                                      | Moderate Experience                                                                                | Currently Learning                                    |
-|---------------------------------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| <img src="readme/assets/lots.svg" alt="Python, Git, Markdown"> | <img src="readme/assets/moderate.svg" alt="HTML, CSS, Javascript, Blender, GIMP, Inkscape, Unity, Godot"> | <img src="readme/assets/learning.svg" alt="Kotlin, PyTorch"> |
+## Software
+<a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="48" height="48" alt="Git" title="Git"></a>
+<a href="https://github.com/"><img src="assets/icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub"></a>
+<a href="https://www.blender.org/"><img src="assets/icons/blender.svg" width="48" height="48" alt="Blender" title="Blender"></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="assets/icons/photoshop.svg" width="48" height="48" alt="Photoshop" title="Photoshop"></a>
+<a href="https://unity.com/"><img src="assets/icons/unity.svg" width="48" height="48" alt="Unity" title="Unity"></a>
+<a href="https://godotengine.org/"><img src="assets/icons/godot.svg" width="48" height="48" alt="Godot" title="Godot"></a>
 
-## About Me
+## Editors
+<a href="https://zed.dev/"><img src="assets/icons/zed.svg" width="48" height="48" alt="Zed" title="Zed"></a>
+<a href="https://www.jetbrains.com/webstorm/"><img src="assets/icons/webstorm.svg" width="48" height="48" alt="WebStorm" title="WebStorm"></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="assets/icons/pycharm.svg" width="48" height="48" alt="PyCharm" title="PyCharm"></a>
+<a href="https://code.visualstudio.com/"><img src="assets/icons/vscode.svg" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code"></a>
+<a href="https://colab.research.google.com/"><img src="assets/icons/colab.svg" width="48" height="48" alt="Google Colab" title="Google Colab"></a>
 
-- 🏫 I'm a [dual-enrolled](https://en.wikipedia.org/wiki/Dual_enrollment) **high-school student** taking courses at my
-  local college.
-- 💼 I run a **side-business** where I buy old laptops in bulk at auction, purchase and install new parts, flash new
-  operating systems, and resell them for profit.
-- 📖 My **favorite novels**
-  are [Dune](https://www.goodreads.com/book/show/44767458-dune), [The Golden Compass](https://www.goodreads.com/book/show/119322.The_Golden_Compass),
-  and [The Fifth Science](https://www.goodreads.com/book/show/41580260-the-fifth-science).
-- 🐦‍⬛ My **favorite bird** is the [Starling](https://en.wikipedia.org/wiki/Starling). They have
-  colourful [iridescent feathers](https://i.pinimg.com/736x/d2/71/13/d27113be2e9681ff36cbbb1c793acc6f.jpg), they are
-  capable of [mimicking human speech](https://www.youtube.com/watch?v=2SSJ7PZ3I6c), and they travel in groups (called
-  murmations) [hundreds of thousands of birds strong](https://www.youtube.com/watch?v=V4f_1_r80RY).
+## Tools
+<a href="https://www.mozilla.org/firefox/"><img src="assets/icons/firefox.svg" width="48" height="48" alt="Firefox" title="Firefox"></a>
+<a href="https://obsidian.md/"><img src="assets/icons/obsidian.svg" width="48" height="48" alt="Obsidian" title="Obsidian"></a>
 
-## My Setup
+## Operating Systems
+<a href="https://kubuntu.org/"><img src="assets/icons/kubuntu.svg" width="48" height="48" alt="Kubuntu" title="Kubuntu"></a>
+<a href="https://www.microsoft.com/windows/"><img src="assets/icons/windows.svg" width="48" height="48" alt="Windows" title="Windows"></a>
+<a href="https://linuxmint.com/"><img src="assets/icons/linuxmint.svg" width="48" height="48" alt="Linux Mint" title="Linux Mint"></a>
+<a href="https://www.raspberrypi.com/"><img src="assets/icons/raspberrypi.svg" width="48" height="48" alt="Raspberry Pi" title="Raspberry Pi"></a>
 
-| OS                                            | Editors                                                     | Other                                                       |
-|-----------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| <img src="readme/assets/os.svg" alt="Windows, Mint"> | <img src="readme/assets/editors.svg" alt="PyCharm, VSCode, Colab"> | <img src="readme/assets/other.svg" alt="Github Desktop, Obsidian"> |
-
-<div align="center"><img src="readme\assets\cat_footer.svg" alt="cat footer"></div>
-<div align="center"><p><i>"It took almost 14 billion years for the universe to create you, and it will never do it again."</i></p></div>
+<div align="center"><img src="assets/cat_footer.svg" alt="cat footer"></div>
