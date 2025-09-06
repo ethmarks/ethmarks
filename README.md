@@ -28,6 +28,8 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 ## Editors
 <a href="https://zed.dev/"><img src="assets/icons/zed.svg" width="48" height="48" alt="Zed" title="Zed"></a>
 <a href="https://www.jetbrains.com/webstorm/"><img src="assets/icons/webstorm.svg" width="48" height="48" alt="WebStorm" title="WebStorm"></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="assets/icons/pycharm.svg" width="48" height="48" alt="PyCharm" title="PyCharm"></a>
+<a href="https://code.visualstudio.com/"><img src="assets/icons/vscode.svg" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code"></a>
 <a href="https://colab.research.google.com/"><img src="assets/icons/colab.svg" width="48" height="48" alt="Google Colab" title="Google Colab"></a>
 
 ## Tools and Operating Systems
