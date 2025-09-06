@@ -32,10 +32,13 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 <a href="https://code.visualstudio.com/"><img src="assets/icons/vscode.svg" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code"></a>
 <a href="https://colab.research.google.com/"><img src="assets/icons/colab.svg" width="48" height="48" alt="Google Colab" title="Google Colab"></a>
 
-## Tools and Operating Systems
+## Tools
 <a href="https://www.mozilla.org/firefox/"><img src="assets/icons/firefox.svg" width="48" height="48" alt="Firefox" title="Firefox"></a>
 <a href="https://obsidian.md/"><img src="assets/icons/obsidian.svg" width="48" height="48" alt="Obsidian" title="Obsidian"></a>
+
+## Operating Systems
 <a href="https://kubuntu.org/"><img src="assets/icons/kubuntu.svg" width="48" height="48" alt="Kubuntu" title="Kubuntu"></a>
 <a href="https://www.microsoft.com/windows/"><img src="assets/icons/windows.svg" width="48" height="48" alt="Windows" title="Windows"></a>
+<a href="https://linuxmint.com/"><img src="assets/icons/linuxmint.svg" width="48" height="48" alt="Linux Mint" title="Linux Mint"></a>
 
 <div align="center"><img src="assets\cat_footer.svg" alt="cat footer"></div>
