@@ -12,24 +12,28 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 - 💼 **Personal Business**: I buy old laptops in bulk at auction, purchase and install new parts, flash new operating systems, and resell them for profit.
 - 🖋️ **Blog**: I write about things that interest me in the [posts](https://ethmarks.github.io/posts/) section of my personal website.
 
-<div align="center">
-    <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="48" height="48" alt="Python" title="Python"></a>
-    <a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="48" height="48" alt="Git" title="Git"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"></a>
-    <a href="https://www.blender.org/"><img src="assets/icons/blender.svg" width="48" height="48" alt="Blender" title="Blender"></a>
-    <a href="https://www.adobe.com/products/photoshop.html"><img src="assets/icons/photoshop.svg" width="48" height="48" alt="Photoshop" title="Photoshop"></a>
-    <a href="https://unity.com/"><img src="assets/icons/unity.svg" width="48" height="48" alt="Unity" title="Unity"></a>
-    <a href="https://godotengine.org/"><img src="assets/icons/godot.svg" width="48" height="48" alt="Godot" title="Godot"></a>
-    <br>
-    <a href="https://zed.dev/"><img src="assets/icons/zed.svg" width="48" height="48" alt="Zed" title="Zed"></a>
-    <a href="https://www.jetbrains.com/webstorm/"><img src="assets/icons/webstorm.svg" width="48" height="48" alt="WebStorm" title="WebStorm"></a>
-    <a href="https://colab.research.google.com/"><img src="assets/icons/colab.svg" width="48" height="48" alt="Google Colab" title="Google Colab"></a>
-    <a href="https://www.mozilla.org/firefox/"><img src="assets/icons/firefox.svg" width="48" height="48" alt="Firefox" title="Firefox"></a>
-    <a href="https://obsidian.md/"><img src="assets/icons/obsidian.svg" width="48" height="48" alt="Obsidian" title="Obsidian"></a>
-    <a href="https://kubuntu.org/"><img src="assets/icons/kubuntu.svg" width="48" height="48" alt="Kubuntu" title="Kubuntu"></a>
-    <a href="https://www.microsoft.com/windows/"><img src="assets/icons/windows.svg" width="48" height="48" alt="Windows" title="Windows"></a>
-</div>
+## Languages
+<a href="https://www.python.org/"><img src="assets/icons/python.svg" width="48" height="48" alt="Python" title="Python"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"></a>
+
+## Software
+<a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="48" height="48" alt="Git" title="Git"></a>
+<a href="https://www.blender.org/"><img src="assets/icons/blender.svg" width="48" height="48" alt="Blender" title="Blender"></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="assets/icons/photoshop.svg" width="48" height="48" alt="Photoshop" title="Photoshop"></a>
+<a href="https://unity.com/"><img src="assets/icons/unity.svg" width="48" height="48" alt="Unity" title="Unity"></a>
+<a href="https://godotengine.org/"><img src="assets/icons/godot.svg" width="48" height="48" alt="Godot" title="Godot"></a>
+
+## Editors
+<a href="https://zed.dev/"><img src="assets/icons/zed.svg" width="48" height="48" alt="Zed" title="Zed"></a>
+<a href="https://www.jetbrains.com/webstorm/"><img src="assets/icons/webstorm.svg" width="48" height="48" alt="WebStorm" title="WebStorm"></a>
+<a href="https://colab.research.google.com/"><img src="assets/icons/colab.svg" width="48" height="48" alt="Google Colab" title="Google Colab"></a>
+
+## Tools and Operating Systems
+<a href="https://www.mozilla.org/firefox/"><img src="assets/icons/firefox.svg" width="48" height="48" alt="Firefox" title="Firefox"></a>
+<a href="https://obsidian.md/"><img src="assets/icons/obsidian.svg" width="48" height="48" alt="Obsidian" title="Obsidian"></a>
+<a href="https://kubuntu.org/"><img src="assets/icons/kubuntu.svg" width="48" height="48" alt="Kubuntu" title="Kubuntu"></a>
+<a href="https://www.microsoft.com/windows/"><img src="assets/icons/windows.svg" width="48" height="48" alt="Windows" title="Windows"></a>
 
 <div align="center"><img src="assets\cat_footer.svg" alt="cat footer"></div>
