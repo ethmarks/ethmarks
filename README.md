@@ -2,15 +2,15 @@
 <img src="assets/hello_spearmint_palette.gif" width=550px>
 </div>
 
-My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
+My name is **Ethan Marks**. I'm a 14-year-old student and software developer.
 
-- 👨‍💻 **Programming**: I have many years of experience coding in Python.
+- 👨‍💻 **Programming**: I have several years of experience coding in Python.
 - 🎮 **Game Development**: I developed and published [Soaring Squirrel Shipment](https://ethmarks.itch.io/soaring-squirrel-shipment), a game about flying squirrels.
-- 🖥️ **Web Development**: I designed, built, and published my [personal website](https://ethmarks.github.io) from scratch using [Hugo](https://gohugo.io/), [Sass](https://sass-lang.com/), and [GitHub Pages](https://docs.github.com/en/pages)
+- 🖥️ **Web Development**: I designed, built, and published my [personal website](https://ethmarks.github.io) from scratch using [Hugo](https://gohugo.io/), [Sass](https://sass-lang.com/), and [GitHub Pages](https://docs.github.com/en/pages).
 - 🧊 **3D Modeling**: I've used Blender [Geometry Nodes](https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/introduction.html) to create procedural 3D assets.
 - 🏫 **Education**: I'm a homeschooled high school student currently in my third semester of [dual-enrollment](https://en.wikipedia.org/wiki/Dual_enrollment) at my local community college.
-- 💼 **Personal Business**: I buy old laptops in bulk at auction, purchase and install new parts, flash new operating systems, and resell them for profit.
-- 🖋️ **Blog**: I write about things that interest me in the [posts](https://ethmarks.github.io/posts/) section of my personal website.
+- 💼 **Personal Business**: I buy old laptops in bulk at auction, then upgrade them with new parts and fresh operating systems before reselling them for profit.
+- 🖋️ **Blog**: I write about my projects and things that interest me in the [posts](https://ethmarks.github.io/posts/) section of my personal website.
 
 ## Languages
 <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="48" height="48" alt="Python" title="Python"></a>
@@ -44,4 +44,4 @@ My name is **Ethan Marks**. I'm a 14-year-old student and software engineer.
 <a href="https://linuxmint.com/"><img src="assets/icons/linuxmint.svg" width="48" height="48" alt="Linux Mint" title="Linux Mint"></a>
 <a href="https://www.raspberrypi.com/"><img src="assets/icons/raspberrypi.svg" width="48" height="48" alt="Raspberry Pi" title="Raspberry Pi"></a>
 
-<div align="center"><img src="assets\cat_footer.svg" alt="cat footer"></div>
+<div align="center"><img src="assets/cat_footer.svg" alt="cat footer"></div>
