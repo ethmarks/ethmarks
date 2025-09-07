@@ -1,47 +1,56 @@
 <div align="center">
-<img src="assets/hello_spearmint_palette.gif" width=550px>
+<img src="assets/hello_spearmint_palette.gif" width=550px alt="Hello">
 </div>
 
-My name is **Ethan Marks**. I'm a 14-year-old student and software developer.
+# 👋 Ahoy! I’m Ethan Marks (@ethmarks)
 
-- 👨‍💻 **Programming**: I have several years of experience coding in Python.
-- 🎮 **Game Development**: I developed and published [Soaring Squirrel Shipment](https://ethmarks.itch.io/soaring-squirrel-shipment), a game about flying squirrels.
-- 🖥️ **Web Development**: I designed, built, and published my [personal website](https://ethmarks.github.io) from scratch using [Hugo](https://gohugo.io/), [Sass](https://sass-lang.com/), and [GitHub Pages](https://docs.github.com/en/pages).
-- 🧊 **3D Modeling**: I've used Blender [Geometry Nodes](https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/introduction.html) to create procedural 3D assets.
-- 🏫 **Education**: I'm a homeschooled high school student currently in my third semester of [dual-enrollment](https://en.wikipedia.org/wiki/Dual_enrollment) at my local community college.
-- 💼 **Personal Business**: I buy old laptops in bulk at auction, then upgrade them with new parts and fresh operating systems before reselling them for profit.
-- 🖋️ **Blog**: I write about my projects and things that interest me in the [posts](https://ethmarks.github.io/posts/) section of my personal website.
+## 🌟 About Me
+- 🧑‍💻 I'm an aspiring Software Developer
+- 🎂 I'm 14 years old
+- 🎓 I'm a homeschooled high school student in my third semester of dual-enrollment at my local community college
+- 🖋️ I write about my projects and things that interest me in the [posts](https://ethmarks.github.io/posts/) section of my personal website
 
-## Languages
+## 🧰 Skills
+- 🐍 I have several years of experience coding in Python
+- 🖥️ I designed, built, and published my [personal website](https://ethmarks.github.io) from scratch using [Hugo](https://gohugo.io/), [Sass](https://sass-lang.com/), and [GitHub Pages](https://docs.github.com/en/pages)
+- 🎮 I developed and published [Soaring Squirrel Shipment](https://ethmarks.itch.io/soaring-squirrel-shipment), a game about flying squirrels
+
+<div align="center">
 <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="48" height="48" alt="Python" title="Python"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS"></a>
 <a href="https://sass-lang.com/"><img src="assets/icons/sass.svg" width="48" height="48" alt="Sass" title="Sass"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"></a>
-
-## Software
 <a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="48" height="48" alt="Git" title="Git"></a>
 <a href="https://github.com/"><img src="assets/icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub"></a>
 <a href="https://www.blender.org/"><img src="assets/icons/blender.svg" width="48" height="48" alt="Blender" title="Blender"></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="assets/icons/photoshop.svg" width="48" height="48" alt="Photoshop" title="Photoshop"></a>
 <a href="https://unity.com/"><img src="assets/icons/unity.svg" width="48" height="48" alt="Unity" title="Unity"></a>
 <a href="https://godotengine.org/"><img src="assets/icons/godot.svg" width="48" height="48" alt="Godot" title="Godot"></a>
+</div>
 
-## Editors
-<a href="https://zed.dev/"><img src="assets/icons/zed.svg" width="48" height="48" alt="Zed" title="Zed"></a>
-<a href="https://www.jetbrains.com/webstorm/"><img src="assets/icons/webstorm.svg" width="48" height="48" alt="WebStorm" title="WebStorm"></a>
-<a href="https://www.jetbrains.com/pycharm/"><img src="assets/icons/pycharm.svg" width="48" height="48" alt="PyCharm" title="PyCharm"></a>
-<a href="https://code.visualstudio.com/"><img src="assets/icons/vscode.svg" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code"></a>
-<a href="https://colab.research.google.com/"><img src="assets/icons/colab.svg" width="48" height="48" alt="Google Colab" title="Google Colab"></a>
+## 🚀 Featured Projects
+- 🌍 **[ASCII-Globe](https://ethmarks.github.io/posts/asciiglobe/)** - Text-based cartographic rendering engine
+- 📚 **[Thessa](https://ethmarks.github.io/posts/thessa/)** - AI-powered thesaurus application
+- 🐿️ **[Soaring Squirrel Shipment](https://ethmarks.itch.io/soaring-squirrel-shipment)** - Published game about flying squirrels
 
-## Tools
-<a href="https://www.mozilla.org/firefox/"><img src="assets/icons/firefox.svg" width="48" height="48" alt="Firefox" title="Firefox"></a>
-<a href="https://obsidian.md/"><img src="assets/icons/obsidian.svg" width="48" height="48" alt="Obsidian" title="Obsidian"></a>
+## 🛠️ What I'm Working On
 
-## Operating Systems
-<a href="https://kubuntu.org/"><img src="assets/icons/kubuntu.svg" width="48" height="48" alt="Kubuntu" title="Kubuntu"></a>
-<a href="https://www.microsoft.com/windows/"><img src="assets/icons/windows.svg" width="48" height="48" alt="Windows" title="Windows"></a>
-<a href="https://linuxmint.com/"><img src="assets/icons/linuxmint.svg" width="48" height="48" alt="Linux Mint" title="Linux Mint"></a>
-<a href="https://www.raspberrypi.com/"><img src="assets/icons/raspberrypi.svg" width="48" height="48" alt="Raspberry Pi" title="Raspberry Pi"></a>
+- 🌐 I'm currently working on refactoring the SCSS of my [personal website](https://ethmarks.github.io) to be more DRY, responsive, and aesthetic
+- 💼 I'm running a personal business flipping and reselling old laptops that I bought at auction
+- 💎 I'm learning Ruby through [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
 
-<div align="center"><img src="assets/cat_footer.svg" alt="cat footer"></div>
+## ✨ Fun Facts
+
+- 🗺️ I've been to 48 US states and 5 Canadian provinces
+- 🦋 My favorite map projection is the [Waterman Butterfly](https://ethmarks.github.io/posts/waterman/)
+- ⚡ My favorite logical operator is XOR
+
+## 📫 Contact
+
+- 📧 **Email:** [colourlessspearmint@gmail.com](mailto:colourlessspearmint@gmail.com)
+- 🌐 **Website:** [ethmarks.github.io](https://ethmarks.github.io)
+- 💻 **CodePen:** [@ethmarks](https://codepen.io/ethmarks)
+- 🎮 **Itch.io:** [ethmarks.itch.io](https://ethmarks.itch.io/)
+
+<div align="center"><img src="assets/cat_footer.svg" alt=""></div>
