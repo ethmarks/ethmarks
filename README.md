@@ -8,7 +8,7 @@
 - 🧑‍💻 I'm an aspiring Software Developer
 - 🎂 I'm 14 years old
 - 🎓 I'm a homeschooled high school student in my third semester of dual-enrollment at my local community college
-- 🖋️ I write about my projects and things that interest me in the [posts](https://ethmarks.github.io/posts/) section of my personal website
+- 🖋️ I write about my projects and things that interest me on [my personal website](https://ethmarks.github.io/posts)
 
 ## 🧰 Skills
 - 🐍 I have several years of experience coding in Python
