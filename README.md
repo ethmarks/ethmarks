@@ -32,7 +32,7 @@
 ## 🚀 Featured Projects
 - 🌍 **[ASCII-Globe](https://ethmarks.github.io/posts/asciiglobe/)** - Text-based cartographic rendering engine
 - 📚 **[Thessa](https://ethmarks.github.io/posts/thessa/)** - AI-powered thesaurus application
-- 🐿️ **[Soaring Squirrel Shipment](https://ethmarks.itch.io/soaring-squirrel-shipment)** - Published game about flying squirrels
+- 🐿️ **[Soaring Squirrel Shipment](https://ethmarks.itch.io/soaring-squirrel-shipment)** - Itch.io game about flying squirrels
 
 ## 🛠️ What I'm Working On
 
