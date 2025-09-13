@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 - 🧑‍💻 I'm an aspiring Software Developer
-- 🎂 I'm 14 years old
+- 🎂 I'm 15 years old
 - 🎓 I'm a homeschooled high school student in my third semester of dual-enrollment at my local community college
 - 🖋️ I write about my projects and things that interest me on [my personal website](https://ethmarks.github.io/posts)
 
