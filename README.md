@@ -1,8 +1,6 @@
-## 👋 Ahoy! I’m Ethan Marks
-
 <img src="assets/hello_spearmint_palette.gif" align=right width=550px alt="Hello">
 
-### 🌟 About Me
+### 👋 Ahoy! I’m Ethan Marks
 - 🧑‍💻 I'm an software developer
 - 🎂 I'm 15 years old
 - 🎓 I'm a homeschooled high school student in my third semester of dual-enrollment at my local community college
