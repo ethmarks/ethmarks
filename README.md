@@ -1,4 +1,4 @@
-<img src="assets/hello_spearmint_palette.gif" align=right width=550px alt="Hello">
+<div align=center><img src="assets/hello_spearmint_palette.gif" width=550px alt="Hello"></div>
 
 ### 👋 Ahoy! I’m Ethan Marks
 - 🧑‍💻 I'm an software developer
