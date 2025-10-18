@@ -17,6 +17,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS"></a>
 <a href="https://sass-lang.com/"><img src="assets/icons/sass.svg" width="48" height="48" alt="Sass" title="Sass"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"></a>
+<a href="https://svelte.dev/"><img src="assets/icons/svelte.svg" width="48" height="48" alt="SvelteKit" title="SvelteKit"></a>
 <a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="48" height="48" alt="Git" title="Git"></a>
 <a href="https://github.com/"><img src="assets/icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub"></a>
 <a href="https://www.blender.org/"><img src="assets/icons/blender.svg" width="48" height="48" alt="Blender" title="Blender"></a>
