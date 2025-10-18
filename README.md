@@ -30,12 +30,6 @@
 - 📚 **[Thessa](https://ethmarks.github.io/posts/thessa/)** - AI-powered thesaurus application
 - 🐿️ **[Soaring Squirrel Shipment](https://ethmarks.itch.io/soaring-squirrel-shipment)** - Itch.io game about flying squirrels
 
-### 🛠️ What I'm Working On
-
-- 🌐 I'm currently working on refactoring the SCSS of my [personal website](https://ethmarks.github.io) to be more DRY, responsive, and aesthetic
-- 💼 I'm running a personal business flipping and reselling old laptops that I bought at auction
-- 💎 I'm learning Ruby through [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
-
 ### ✨ Fun Facts
 
 - 🗺️ I've been to 48 US states and 5 Canadian provinces
