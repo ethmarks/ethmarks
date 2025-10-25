@@ -39,9 +39,6 @@
 
 ### 📫 Contact
 
-- 📧 **Email:** [colourlessspearmint@gmail.com](mailto:colourlessspearmint@gmail.com)
-- 🌐 **Website:** [ethmarks.github.io](https://ethmarks.github.io)
-- 💻 **CodePen:** [@ethmarks](https://codepen.io/ethmarks)
-- 🎮 **Itch.io:** [ethmarks.itch.io](https://ethmarks.itch.io/)
+- Feel free to get in touch! Email me at [ethmarks.dev@gmail.com](mailto:ethmarks.dev@gmail.com)
 
 <div align="center"><img src="assets/cat_footer.svg" alt="a minimalist vector drawing of a contemplative cat sitting on a horizontal line, staring upwards"></div>
