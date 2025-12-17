@@ -9,14 +9,14 @@ I’m a 15-year-old **software developer** currently in my third semester of dua
 I have several years of experience coding in **Python**, and I designed, built, and published my [personal website](https://ethmarks.github.io) from scratch using **Hugo**, **Sass**, and **GitHub Pages**. I also developed and published the video game **[Soaring Squirrel Shipment](https://ethmarks.itch.io/soaring-squirrel-shipment)**.
 
 <div align="center">
-<a href="https://www.python.org/"><img src="assets/icons/python.svg" width="48" height="48" alt="Python" title="Python"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS"></a>
-<a href="https://sass-lang.com/"><img src="assets/icons/sass.svg" width="48" height="48" alt="Sass" title="Sass"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"></a>
-<a href="https://svelte.dev/"><img src="assets/icons/svelte.svg" width="48" height="48" alt="SvelteKit" title="SvelteKit"></a>
-<a href="https://unity.com/"><img src="assets/icons/unity.svg/" width="48" height="48" alt="Unity" title="Unity"></a>
-<a href="https://godotengine.org/"><img src="assets/icons/godot.svg" width="48" height="48" alt="Godot" title="Godot"></a>
+<a href="https://www.python.org/"><img src="assets/icons/python.svg" width="64" height="64" alt="Python" title="Python"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html.svg" width="64" height="64" alt="HTML" title="HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" width="64" height="64" alt="CSS" title="CSS"></a>
+<a href="https://sass-lang.com/"><img src="assets/icons/sass.svg" width="64" height="64" alt="Sass" title="Sass"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="64" height="64" alt="JavaScript" title="JavaScript"></a>
+<a href="https://svelte.dev/"><img src="assets/icons/svelte.svg" width="64" height="64" alt="SvelteKit" title="SvelteKit"></a>
+<a href="https://unity.com/"><img src="assets/icons/unity.svg/" width="64" height="64" alt="Unity" title="Unity"></a>
+<a href="https://godotengine.org/"><img src="assets/icons/godot.svg" width="64" height="64" alt="Godot" title="Godot"></a>
 </div>
 
 ## 🚀 Featured Projects
