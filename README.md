@@ -7,5 +7,3 @@ I'm 15 years old and in my fourth semester of dual-enrollment at my local commun
 ## 📫 Contact
 
 Feel free to email me at **[ethmarks.dev@gmail.com](mailto:ethmarks.dev@gmail.com)**
-
-<div align="center"><img src="assets/cat_footer.svg" alt="a minimalist vector drawing of a contemplative cat sitting on a horizontal line, staring upwards"></div>
