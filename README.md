@@ -36,4 +36,4 @@
 
 - email me at [ethmarks.dev@gmail.com](mailto:ethmarks.dev@gmail.com) (I love
   getting emails, so please say hi!)
-- ping or DM me on slack if you know me there
+- ping me on slack if you know me there
