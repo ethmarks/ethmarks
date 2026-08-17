@@ -7,14 +7,6 @@
 - a developer
 - entering my 3rd year of dual-enrollment soon
 
-**Things I use to code**
-
-- a lot of TypeScript
-- a bit of Go
-- Zed
-- Fedora (Linux)
-- Fedora (hat)
-
 **Things I've made**
 
 - a [nerdy set-collection game](https://github.com/ethmarks/hadronize) that's fully playable in the browser console
@@ -23,6 +15,14 @@
 - a [terminal text editor](https://github.com/ethmarks/deci) like `nano` with markdown previewing
 - a [theme](https://github.com/ethmarks/lume_tufte) and a
   [plugin](https://github.com/ethmarks/lume_nueglow) for Lume SSG
+
+**Things I use to code**
+
+- a lot of TypeScript
+- a bit of Go
+- Zed
+- Fedora (Linux)
+- Fedora (hat)
 
 **Things I particularly like**
 
