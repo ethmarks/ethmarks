@@ -17,10 +17,10 @@
 
 **Things I've made**
 
-- a [nerdy set-collection game](https://github.com/ethmarks/hadronize)
+- a [nerdy set-collection game](https://github.com/ethmarks/hadronize) that's fully playable in the browser console
 - a [JS puzzle site](https://github.com/ethmarks/nolet) where you aren't allowed
   to use `let`
-- a [terminal text editor](https://github.com/ethmarks/deci) like `nano`
+- a [terminal text editor](https://github.com/ethmarks/deci) like `nano` with markdown previewing
 - a [theme](https://github.com/ethmarks/lume_tufte) and a
   [plugin](https://github.com/ethmarks/lume_nueglow) for Lume SSG
 
