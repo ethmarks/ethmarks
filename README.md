@@ -5,7 +5,7 @@
 - named Ethan Marks
 - 15 years old
 - a developer
-- entering my 3rd year of dual-enrollment soon
+- in my 3rd year of dual-enrollment
 
 **Things I've made**
 
