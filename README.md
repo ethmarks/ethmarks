@@ -3,7 +3,7 @@
 **Things I am**
 
 - named Ethan Marks
-- 15 years old
+- 16 years old
 - a developer
 - in my 3rd year of dual-enrollment
 
