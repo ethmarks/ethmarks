@@ -21,6 +21,7 @@
 - a lot of TypeScript
 - a bit of Go
 - Zed
+- Framework 13
 - Fedora (Linux)
 - Fedora (hat)
 
