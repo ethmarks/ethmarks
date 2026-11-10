@@ -9,10 +9,15 @@
 
 **Things I've made**
 
-- a [nerdy set-collection game](https://github.com/ethmarks/hadronize) that's fully playable in the browser console
+- a [file converter website](https://github.com/TheStarViper/hanova) where file
+  formats are islands on an antique map (co-developed with
+  [@TheStarViper](https://github.com/TheStarViper/))
+- a [nerdy set-collection game](https://github.com/ethmarks/hadronize) that can
+  be played in the browser, terminal, or browser dev console
 - a [JS puzzle site](https://github.com/ethmarks/nolet) where you aren't allowed
   to use `let`
-- a [terminal text editor](https://github.com/ethmarks/deci) like `nano` with markdown previewing
+- a [terminal text editor](https://github.com/ethmarks/deci) like `nano` with
+  markdown previewing
 - a [theme](https://github.com/ethmarks/lume_tufte) and a
   [plugin](https://github.com/ethmarks/lume_nueglow) for Lume SSG
 
